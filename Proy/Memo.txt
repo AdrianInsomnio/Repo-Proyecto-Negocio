@@ -1,0 +1,38 @@
+Proyecto sistema de ventas
+
+
+//-------6-10-2017--------
+v1
+	Sistema con: 
+		-panel de control
+			Gestion del Sistema/(Configuracion de base de datos.)
+			Reglas del Sistema/(reglas de funcionamiento del sistema)
+			Gestion de Permisos de Usuarios/(Regula el comportaminto de los ususarios y 								sus permisos asociados a sus labores)
+			Gestion de Usuarios/(Mantiene el listado de usuarios asosciado a sus 							permisos correspondientes)
+
+			--Gestion de Productos/(movido a modulo stock)
+			--Gestion de puntos de ventas/ (movido a modulo stock)
+			
+			reportes diarios de ventas /()
+			Reportes Proveedores / (Compras y gastos -proveedores- devoluciones y pedidos pendientes)
+			Gestion de listas de precios / 
+			-----------------------------
+			Respaldo de bases de datos/
+
+		-modulo cajas
+			Mentenimiento 
+				Configuracion de estacion trabajo/
+				Gestion de Cajas y liquidaciones/
+			Ventas
+				Punto de venta /
+				Gestion de clientes/
+
+
+		-modulo stock
+				Configuracion de estacion/
+				Gestion de inventario de productos/
+				Reportes de devoluciones/
+				Modulo de Transferencias/
+				Modulos de Pedidos
+
+		-modulo control de etiquetas(*)

@@ -1,0 +1,38 @@
+Org del proyecto
+
+(*leyenda 
+		  P en proceso pendiente
+		  T terminado
+		  E eliminado
+		  D desuso
+		  R para revisar
+		  I integrado al sistema
+		  VF version final
+		  *)
+
+Modulos y Clases 
+	--panel de control
+			
+	--modulo cajas
+	--modulo stock
+	-
+	-
+
+
+
+
+
+Recursos e imagenes
+	-
+	-
+	-
+	-
+	-
+
+
+Pendientes para investigacion
+	-
+	-
+	-
+	-
+	-
